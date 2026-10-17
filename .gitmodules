@@ -1,0 +1,8 @@
+[submodule "labdog-isaaclab"]
+	path = labdog/IsaacLab
+	url = https://github.com/isaac-sim/IsaacLab.git
+	shallow = true
+[submodule "labdog-robot-lab"]
+	path = labdog/robot_lab
+	url = https://github.com/fan-ziqi/robot_lab.git
+	shallow = true
